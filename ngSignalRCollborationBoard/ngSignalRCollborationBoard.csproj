@@ -81,6 +81,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Properties\PublishProfiles\ngcollab.pubxml" />
     <None Include="README.md" />
     <Content Include="css\app.css" />
     <Content Include="Global.asax" />
